@@ -1,0 +1,123 @@
+{
+  "countries": [
+    {
+      "name": "United States",
+
+      "states": [
+        {
+          "name": "California",
+
+          "cities": ["Los Angeles", "San Francisco", "San Diego"]
+        },
+
+        {
+          "name": "New York",
+
+          "cities": ["New York City", "Buffalo", "Albany"]
+        },
+
+        {
+          "name": "Texas",
+
+          "cities": ["Houston", "Dallas", "Austin"]
+        }
+      ]
+    },
+
+    {
+      "name": "Canada",
+
+      "states": [
+        {
+          "name": "Ontario",
+
+          "cities": ["Toronto", "Ottawa", "Hamilton"]
+        },
+
+        {
+          "name": "Quebec",
+
+          "cities": ["Montreal", "Quebec City", "Gatineau"]
+        },
+
+        {
+          "name": "British Columbia",
+
+          "cities": ["Vancouver", "Victoria", "Kelowna"]
+        }
+      ]
+    },
+
+    {
+      "name": "India",
+
+      "states": [
+        {
+          "name": "Maharashtra",
+
+          "cities": ["Mumbai", "Pune", "Nagpur"]
+        },
+
+        {
+          "name": "Tamil Nadu",
+
+          "cities": ["Chennai", "Coimbatore", "Madurai"]
+        },
+
+        {
+          "name": "Karnataka",
+
+          "cities": ["Bangalore", "Mysore", "Hubli"]
+        }
+      ]
+    },
+
+    {
+      "name": "Germany",
+
+      "states": [
+        {
+          "name": "Bavaria",
+
+          "cities": ["Munich", "Nuremberg", "Augsburg"]
+        },
+
+        {
+          "name": "North Rhine-Westphalia",
+
+          "cities": ["Cologne", "Düsseldorf", "Dortmund"]
+        },
+
+        {
+          "name": "Baden-Württemberg",
+
+          "cities": ["Stuttgart", "Mannheim", "Freiburg"]
+        }
+      ]
+    },
+
+    {
+      "name": "France",
+
+      "states": [
+        {
+          "name": "Île-de-France",
+
+          "cities": ["Paris", "Versailles", "Nanterre"]
+        },
+
+        {
+          "name": "Provence-Alpes-Côte d'Azur",
+
+          "cities": ["Marseille", "Nice", "Toulon"]
+        },
+
+        {
+          "name": "Auvergne-Rhône-Alpes",
+
+          "cities": ["Lyon", "Grenoble", "Saint-Étienne"]
+        }
+      ]
+    }
+  ]
+}
