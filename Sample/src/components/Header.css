@@ -1,0 +1,10 @@
+.header{
+    background-color: red;
+    text-align: center;
+    font-size: italic;
+}
+.createDiv{
+    width: 10%;
+    /* height: 80%; */
+    border: 1px solid black;
+}
